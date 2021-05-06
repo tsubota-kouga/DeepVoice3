@@ -1,7 +1,7 @@
 # Deep Voice 3
 
 ## official report
-[DeepVoice3](DeepVoice://arxiv.org/abs/1710.07654)
+[DeepVoice3](https://arxiv.org/abs/1710.07654)
 
 ## Ref
 - https://github.com/r9y9/deepvoice3_pytorch
